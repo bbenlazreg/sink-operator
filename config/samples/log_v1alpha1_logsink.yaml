@@ -1,0 +1,6 @@
+apiVersion: log.carrefour.com/v1alpha1
+kind: LogSink
+metadata:
+  name: logsink-sample
+spec:
+  # Add fields here
